@@ -168,6 +168,10 @@ h1, h2, h3, h4 {
     color: #949494;
 }
 
+.member_name {
+    color: #dff9fb
+}
+
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected {
     background: #545454 !important;
 }
